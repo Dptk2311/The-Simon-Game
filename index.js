@@ -88,7 +88,7 @@ function checkAnswer(currentLevel){
         },200);
         $("h1").text("Game Over, Click here to Restart");
         
-        setTimeout(1000);
+        
         
         startOver();
     }
